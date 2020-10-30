@@ -10,71 +10,71 @@ description: "Robert was here."
 # Team names, titles and social links
 people:
 - name: Peter Ladurner
-  pic: 1
+  pic: 4
   position: PI
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: stack-overflow
+      #url: #
 
 - name: Robert Pjeta
-  pic: 2
-  position: Post-Dpc
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+  pic: 4
+  position: Post-Doc
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: linkedin
+      #url: #
 
 - name: Philip Bertemes
-  pic: 3
+  pic: 4
   position: PhD
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #
 
 - name: Magdalena Knapp
-  pic: 3
+  pic: 4
   position: Master Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #   
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #   
       
 - name: Moritz Nowakowski
-  pic: 3
+  pic: 4
   position: Master Student
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #      
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #      
             
       
 - name: Birte Mertens
-  pic: 3
+  pic: 4
   position: Umpa-Lumpa
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #      
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #      
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
