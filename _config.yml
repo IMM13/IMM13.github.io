@@ -10,7 +10,7 @@ description: "Robert was here."
 # Team names, titles and social links
 people:
 - name: Peter Ladurner
-  pic: 4
+  pic: 1
   position: PI
   #social:
     #- title: twitter
@@ -67,7 +67,7 @@ people:
       
 - name: Birte Mertens
   pic: 4
-  position: Umpa-Lumpa
+  position: Lab Technician
   #social:
     #- title: twitter
       #url: #
