@@ -3,10 +3,10 @@
   <channel>
     <title>International Macrostomum Meeting 2020</title>
     <description>Macrostomum, flatworm, Innsbruck, Austria, adhesion, adhesive, bioadhesion, bio-glue, glue, regeneration, stem cell, cells, stemcells, sex allocation</description>
-    <link>https://imm13.github.io/agency-jekyll-theme//</link>
-    <atom:link href="https://imm13.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Nov 2020 13:19:59 +0100</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2020 13:19:59 +0100</lastBuildDate>
+    <link>http://localhost:4000/agency-jekyll-theme//</link>
+    <atom:link href="http://localhost:4000/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 02 Nov 2020 13:31:34 +0100</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2020 13:31:34 +0100</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
-        <link>https://imm13.github.io/agency-jekyll-theme//2020/11/01/project-3/</link>
-        <guid isPermaLink="true">https://imm13.github.io/agency-jekyll-theme//2020/11/01/project-3/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//2020/11/01/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2020/11/01/project-3/</guid>
         
         
       </item>
@@ -25,8 +25,8 @@
         <description>
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
-        <link>https://imm13.github.io/agency-jekyll-theme//2020/11/01/project-2/</link>
-        <guid isPermaLink="true">https://imm13.github.io/agency-jekyll-theme//2020/11/01/project-2/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//2020/11/01/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2020/11/01/project-2/</guid>
         
         
       </item>
@@ -36,8 +36,8 @@
         <description>
 </description>
         <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
-        <link>https://imm13.github.io/agency-jekyll-theme//2020/11/01/project-1/</link>
-        <guid isPermaLink="true">https://imm13.github.io/agency-jekyll-theme//2020/11/01/project-1/</guid>
+        <link>http://localhost:4000/agency-jekyll-theme//2020/11/01/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/agency-jekyll-theme//2020/11/01/project-1/</guid>
         
         
       </item>
