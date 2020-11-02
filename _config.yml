@@ -4,13 +4,13 @@ baseurl: /agency-jekyll-theme/
 # Site settings
 title: International Macrostomum Meeting 2020
 email: peter.ladurner@uibk.ac.at
-description: "Robert was here."
+description: "Macrostomum, flatworm, Innsbruck, Austria, adhesion, adhesive, bioadhesion, bio-glue, glue, regeneration, stem cell, cells, stemcells, sex allocation"
 
 
 # Team names, titles and social links
 people:
 - name: Peter Ladurner
-  pic: 1
+  pic: Pete
   position: PI
   #social:
     #- title: twitter
@@ -21,19 +21,19 @@ people:
       #url: #
 
 - name: Robert Pjeta
-  pic: 4
+  pic: Robert
   position: Post-Doc
   #social:
-    #- title: twitter
-      #url: #
+    #- title: email
+      #url: pjeta.robert@uibk.ac.at
     #- title: facebook
       #url: #
     #- title: linkedin
       #url: #
 
 - name: Philip Bertemes
-  pic: 4
-  position: PhD
+  pic: Phil
+  position: PhD student
   #social:
     #- title: twitter
       #url: #
@@ -43,8 +43,8 @@ people:
       #url: #
 
 - name: Magdalena Knapp
-  pic: 4
-  position: Master Student
+  pic: Magdalena
+  position: Master student
   #social:
     #- title: twitter
       #url: #
@@ -54,8 +54,8 @@ people:
       #url: #   
       
 - name: Moritz Nowakowski
-  pic: 4
-  position: Master Student
+  pic: Moritz
+  position: Master student
   #social:
     #- title: twitter
       #url: #
@@ -66,7 +66,7 @@ people:
             
       
 - name: Birte Mertens
-  pic: 4
+  pic: Birte
   position: Lab Technician
   #social:
     #- title: twitter
@@ -75,19 +75,30 @@ people:
       #url: #
     #- title: google-plus
       #url: #      
+      
+- name: Nikolas Andresen
+  pic: Niko
+  position: Lab Technician intern
+  #social:
+    #- title: twitter
+      #url: #
+    #- title: facebook
+      #url: #
+    #- title: google-plus
+      #url: #            
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+  #- title: twitter
+    #url: http://twitter.com/jekyllrb
+  #- title: facebook
+    #url:
+  #- title: stack-overflow
+    #url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket 
+    #url: http://bitbucket.org/jekyll
+  #- title: github
+    #url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
