@@ -1,6 +1,6 @@
 ---
 title: Innsbruck - Nordkette
-subtitle: Innsbruck Nordkette - North view on a sunny Sunday hike with some people of the institute. Image by Philip Bertemes.
+subtitle: Innsbruck Nordkette - North view on a sunny Sunday hike with some people of the institute.
 layout: default
 modal-id: 1
 date: 2020-11-01
@@ -10,5 +10,5 @@ alt: image-alt
 project-date: November 2020
 <!--client: none-->
 <!--category: Web Development-->
-description: Innsbruck Nordkette - North view on a sunny Sunday hike with some people of the institute. Image by Philip Bertemes
+description: Innsbruck Nordkette - North view on a sunny Sunday hike with some people of the institute.
 ---
