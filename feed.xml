@@ -1,3 +1,79 @@
----
-layout: feed
----
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>International Macrostomum Meeting</title>
+    <description>Macrostomum, flatworm, Innsbruck, Austria, adhesion, adhesive, bioadhesion, bio-glue, glue, regeneration, stem cell, cells, stemcells, sex allocation</description>
+    <link>http://localhost:4000/IMM13.github.io/</link>
+    <atom:link href="http://localhost:4000/IMM13.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 04 May 2021 10:52:54 +0200</pubDate>
+    <lastBuildDate>Tue, 04 May 2021 10:52:54 +0200</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Innsbruck city from Hungerburg.</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/IMM13.github.io/2020/11/01/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/IMM13.github.io/2020/11/01/project-5/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Innsbruck in winter.</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/IMM13.github.io/2020/11/01/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/IMM13.github.io/2020/11/01/project-4/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Innsbruck - A city in a valley.</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/IMM13.github.io/2020/11/01/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/IMM13.github.io/2020/11/01/project-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Innsbruck - River Inn and Nordkette</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/IMM13.github.io/2020/11/01/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/IMM13.github.io/2020/11/01/project-2/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Innsbruck - Nordkette</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/IMM13.github.io/2020/11/01/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/IMM13.github.io/2020/11/01/project-1/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Goldenes Dachl</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Oct 2020 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/IMM13.github.io/2020/10/01/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/IMM13.github.io/2020/10/01/project-6/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
